@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronal Calibration", "Chronal Calibration\Chronal Calibration.csproj", "{5B5E081C-9008-46D6-A114-963762650BB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory Management System", "Inventory Management System\Inventory Management System.csproj", "{E7AA3FAD-0FE1-45A5-80F8-208AA1AD4CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5B5E081C-9008-46D6-A114-963762650BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B5E081C-9008-46D6-A114-963762650BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B5E081C-9008-46D6-A114-963762650BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7AA3FAD-0FE1-45A5-80F8-208AA1AD4CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AA3FAD-0FE1-45A5-80F8-208AA1AD4CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AA3FAD-0FE1-45A5-80F8-208AA1AD4CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AA3FAD-0FE1-45A5-80F8-208AA1AD4CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
